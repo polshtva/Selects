@@ -1,0 +1,122 @@
+/* body {
+    background-color: rgba(240, 195, 158, 0.4);
+}
+
+p {
+    color: rgba(255, 0, 100, 0.5);
+    text-align: center;
+    font-size: 16;
+}
+
+.textcolor {
+    color: blue;
+}
+
+.text {
+    color: brown
+}
+
+#paragraf {
+    color: black
+}
+
+/* 
+[href] {
+    background-color: rgba(251, 255, 0, 0.7);
+} */
+
+/* 
+[src="https://twinstore.ru/upload/iblock/c0c/3.jpg_thumbnail3.jpg"] {
+    display: block;
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+a,
+div {
+    color: red;
+    background-color: aquamarine;
+}
+
+.btn.active {
+    background-color: blue;
+}
+
+footer .menu__item {
+    background-color: aquamarine;
+}
+
+header>.menu {
+    color: blueviolet;
+}
+
+* {
+    font-size: 20px;
+} */
+
+#top {
+    background-color: blue;
+    color: wheat;
+}
+
+.paragraph {
+    color: brown !important;
+    background-color: blanchedalmond !important;
+}
+
+* {
+    background-color: blanchedalmond;
+}
+
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+
+.block:active {
+    background-color: blue;
+}
+
+.input:focus {
+    background-color: white;
+}
+
+*:focus {
+    background-color: green;
+}
+
+.input:disabled {
+    background-color: rgba(255, 0, 0, 0.5)
+}
+
+.check:checked+span {
+    color: red;
+    text-transform: uppercase;
+}
+
+.list {
+    background-color: cadetblue;
+    width: 300px;
+    border: 1px solid green;
+
+}
+
+.item {
+    margin-bottom: 20px;
+    background-color: cadetblue;
+}
+
+.item:last-child {
+    margin-bottom: 0%;
+}
+
+.item:first-child {
+    color: azure
+}
+
+.item:nth-child(2) {
+    color: red
+}
